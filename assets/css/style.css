@@ -1,0 +1,21 @@
+.list-movies{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-content{
+    margin-top: 5vh;
+    text-align: center;
+    
+}
+
+.card-content .title{
+    margin-top: 5vh;
+    width: 80%;
+}
+
+.card-content img{
+    height: 29rem;
+    width: 18rem;
+}
+
